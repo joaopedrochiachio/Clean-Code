@@ -1,6 +1,3 @@
-# Clean-Code
-Guia de referência para manter o código limpo, escalável e fácil de manter. Inspirado em Clean Architecture, SOLID e Pragmantic Programmer.
-
 # 🛠️ Princípios de Engenharia e Boas Práticas
 
 Este documento serve como guia de referência para os princípios de design e arquitetura de código aplicados neste projeto.
